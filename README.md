@@ -1,16 +1,18 @@
-## Hi there 👋
+# 👋 Stefan O'Neil | Cybersecurity & Law Enforcement
 
-<!--
-**ManofTaiChi/manoftaichi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Computer Science Student @ University of the Potomac** | **Former Police Constable (5 years)**
 
-Here are some ideas to get you started:
+🔐 Building bridges between physical security operations and cyber defense  
+🎯 Focus: Network Security, Threat Analysis, Incident Response  
+🌍 Trinidad & Tobago → United States
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠️ Current Stack
+- **Languages**: Python, C++
+- **Certifications**: Google Cybersecurity (In Progress), CompTIA Network+ (In Progress)
+- **Interests**: AI-powered threat detection, network forensics, SOC operations
+
+## 🎖️ Background
+Former law enforcement officer with operational security experience transitioning into cybersecurity. Bringing real-world threat assessment, incident response, and crisis management skills to the cyber domain.
+
+## 📫 Let's Connect
+https://www.linkedin.com/in/stefan-o-neil-5441b214a/ | stefanoneil19@gmail.com | Open to internship opportunities Summer 2026
