@@ -1,6 +1,6 @@
-# 👋 Stefan O'Neil | Cybersecurity & Law Enforcement
+# 👋 Stefan O'Neil | Cybersecurity & Law Enforcement | AI Engineering
 
-**Computer Science Student @ University of the Potomac** | **Former Police Constable (5 years)**
+**Computer Science Student @ University of the Potomac** | **Former Police Constable (5 years)** | Udemy AI Engineering Certificate
 
 🔐 Building bridges between physical security operations and cyber defense  
 🎯 Focus: Network Security, Threat Analysis, Incident Response  
