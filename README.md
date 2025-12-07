@@ -8,7 +8,7 @@
 
 ## 🛠️ Current Stack
 - **Languages**: Python, C++
-- **Certifications**: Google Cybersecurity (In Progress), CompTIA Network+ (In Progress)
+- **Certifications**: Google Cybersecurity (In Progress), CompTIA Network+ (In Progress), AI Engineering (In Progress)
 - **Interests**: AI-powered threat detection, network forensics, SOC operations
 
 ## 🎖️ Background
