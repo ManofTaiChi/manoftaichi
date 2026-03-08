@@ -7,7 +7,7 @@
 🌍 Trinidad & Tobago → United States
 
 ## 🛠️ Current Stack
-- **Languages**: Python, C++
+- **Languages**: Python, C++, Java
 - **Certifications**: Google Cybersecurity (In Progress), CompTIA Network+ (In Progress), AI Engineering (In Progress)
 - **Interests**: AI-powered threat detection, network forensics, SOC operations
 
